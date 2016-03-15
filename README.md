@@ -22,7 +22,7 @@ asyncio and random are standard libraries
 
 
 Usage:
-Change your email and password on the last line, then on a channel type !drunk
+Change your email and password on the last line, run the script, then on a channel type !drunk
 
 
 
